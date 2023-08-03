@@ -21,4 +21,6 @@ My ortholinear plank keyboard setup
 * Inside the repository root folder run *make planck:barreiros:dfu*
 * Smile.
 
+For Linux OS we should select the English US International with dead keys layout. 
+
 
